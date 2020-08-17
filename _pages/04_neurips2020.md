@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /icml2020/
-title: ICML 2020
-description: Information about the ICML 2020 Retrospectives workshop. 
+permalink: /neurips2020/
+title: NeurIPS 2020
+description: Information about the NeurIPS 2020 HAMLETS workshop. 
 ---
 
 Coming Soon!
