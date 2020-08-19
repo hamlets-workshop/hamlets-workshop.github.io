@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>HAMLETS (Human And Machine in-the-Loop Evaluation and Learning Strategies)</strong> 
+title: HAMLETS (Human And Machine in-the-Loop Evaluation and Learning Strategies) 
 description: Human involvement in AI system design, development, and evaluation is critical to ensure that the insights being derived are practical, and the systems built are meaningful, reliable, and relatable to those who need them. Humans play an integral role in all stages of machine learning development, be it during data generation, interactively teaching machines, or interpreting, evaluating and debugging models. With growing interest in such “human in the loop” learning, we aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to design evaluation and training strategies for humans and models in the loop. 
 
 profile:
