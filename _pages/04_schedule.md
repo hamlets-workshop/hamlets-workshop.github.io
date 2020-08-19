@@ -5,6 +5,6 @@ title: Schedule
 description: Information about the NeurIPS 2020 HAMLETS workshop. 
 ---
 
-#### Schedule
+#### Schedule coming Soon!
 
-Coming Soon!
+#### Submission Instructions coming soon! 
