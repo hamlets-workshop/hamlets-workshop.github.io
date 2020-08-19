@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: ML Retrospectives
+name: HAMLETS 2020
 email:
 description: > # this means to ignore newlines until "url:"
   A Venue for Self-Reflection in ML Research
