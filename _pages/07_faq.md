@@ -24,5 +24,13 @@ A: The organizers of the HAMLETS workshop are:
 
 * [Divyansh Kaushik](https://www.cs.cmu.edu/~dkaushik/), Carnegie Mellon University
 * [Bhargavi Paranjape](https://bhargaviparanjape.github.io/), University of Washington / Facebook AI
-* [add more](https://dummy.io/), Placeholder corp
+* [Max Bartolo](http://hamlets-workshop.github.io/), University College London
+* [Yixin Nie](http://hamlets-workshop.github.io/), University of North Carolina Chapel-Hill
+* [Yanai Elazar](http://hamlets-workshop.github.io/), Bar-Ilan University / Allen Institute for Artificial Intelligence
+* Polina Kirichenko, New York University
+* Forough Arabshahi, Carnegie Mellon University
+* Pontus Stenetorp, University College London
+* Mohit Bansal, University of North Carolina Chapel-Hill
+* Zachary C. Lipton, Carnegie Mellon University
+* Douwe Kiela, Facebook AI Research
 

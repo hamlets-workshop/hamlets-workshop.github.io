@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cfp/
-title: CFP
+title: Call for Papers
 description: Information about submitting to the NeurIPS 2020 HAMLETS workshop. 
 ---
 
@@ -16,7 +16,7 @@ description: Information about submitting to the NeurIPS 2020 HAMLETS workshop.
 
 #### Submission Instructions
 
-Authors are encouraged to submit papers on topics related to human and/or model in the loopevaluation and training strategies, adhering to the following guidelines:
+Authors are encouraged to submit papers on topics related to human and/or model in the loop evaluation and training strategies, adhering to the following guidelines:
 
 * Submissions should be anonymized and follow the [NeurIPS 2020 format](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).
 * We accept paper submissions with a minimum length of 4 pages and a maximum of 8 pages (excluding references and any supplementary material).
