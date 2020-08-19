@@ -4,7 +4,7 @@
 name: HAMLETS 2020
 email:
 description: > # this means to ignore newlines until "url:"
-  A Venue for Self-Reflection in ML Research
+  A Venue for human-in-the-loop machine learning.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -34,12 +34,12 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Published Retrospectives
-blog_description: These are retrospectives which have been reviewed and accepted.
+blog_description: These are papers which have been reviewed and accepted in HAMLETS 2020.
 
 # Pagination
 paginate: 4
-permalink: /published_retrospectives/:year/:title/
-paginate_path: /published_retrospectives/page:num/
+permalink: /published_hamlets/:year/:title/
+paginate_path: /published_hamlets/page:num/
 
 text:
   pagination:
