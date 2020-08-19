@@ -20,7 +20,7 @@ social: true
         <col width="100">
         <tr style="border: none;">       
             <td style="border: none;">
-            <b> <font size="+0">Active and Interactive Learning</font> </b>
+            <b> <font size="+0" color="MediumSeaGreen">Active and Interactive Learning</font> </b>
             </td>
             <td style="border: none;">
             <i> Machine teaching, including instructable agents for real-world decision making (robotic systems, natural language processing, computer vision)</i>   
@@ -28,7 +28,7 @@ social: true
         </tr>
         <tr style="border: none;">    
         <td style="border: none;">
-            <b> <font size="+0">Interpretability</font></b> 
+            <b> <font size="+0" color="MediumSeaGreen">Interpretability</font></b> 
             </td>
             <td style="border: none;">
             <i> Role of humans in building trustworthy AI systems: model interpretability and algorithmic fairness.</i>
@@ -36,7 +36,7 @@ social: true
         </tr>
         <tr style="border: none;">
         <td style="border: none;">
-            <b> <font size="+0">Human as Model Adversary</font></b>
+            <b> <font size="+0" color="MediumSeaGreen">Human as Model Adversary</font></b>
             </td>
             <td style="border: none;">
             <i> Richer human feedback, probing weaknesses of machine learning models</i>
@@ -44,7 +44,7 @@ social: true
         </tr>
         <tr style="border: none;">
         <td style="border: none;">
-            <b> <font size="+0">System Design</font></b>
+            <b> <font size="+0" color="MediumSeaGreen">System Design</font></b>
             </td>
             <td style="border: none;">
             <i> Design of creative interfaces for data annotation, data visualization, interactive learning</i>
@@ -52,7 +52,7 @@ social: true
         </tr>
         <tr style="border: none;">
         <td style="border: none;">
-            <b> <font size="+0">Model Evaluation</font></b>
+            <b> <font size="+0" color="MediumSeaGreen">Model Evaluation</font></b>
             </td>
             <td style="border: none;">
             <i> Role of humans in evaluating model performance for generation, robustness to input</i>
@@ -60,7 +60,7 @@ social: true
         </tr>
         <tr style="border: none;">
             <td style="border: none;">
-            <b><font size="+0">Crowdsourcing</font></b>
+            <b><font size="+0" color="MediumSeaGreen">Crowdsourcing</font></b>
             </td>
             <td style="border: none;">
             <i> Best practices for improving worker engagement, preventing annotationartifacts, maximizing crowd-sourced data quality and efficiency</i>
