@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /schedule/
-title: Schedule
-description: Information about the NeurIPS 2020 HAMLETS workshop. 
+permalink: /cfp/
+title: CFP
+description: Information about submitting to the NeurIPS 2020 HAMLETS workshop. 
 ---
 
 #### Workshop Timeline 
