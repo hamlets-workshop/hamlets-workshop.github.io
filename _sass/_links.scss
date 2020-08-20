@@ -17,6 +17,15 @@ article a, .news a {
     }
 }
 
+.organizers a {
+    color: $theme-color;
+    font-weight: 100;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 .social a {
     color: $text-color;
 
