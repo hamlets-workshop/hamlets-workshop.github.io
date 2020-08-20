@@ -17,6 +17,10 @@ layout: default
     {% include news.html %}
   {% endif %}
 
+  {% if page.organizers %}
+    {% include organizers.html %}
+  {% endif %}
+
   {% if page.social %}
     {% include social.html %}
   {% endif %}

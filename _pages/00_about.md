@@ -10,6 +10,7 @@ profile:
   address: 
 news: true
 social: true
+organizers: true
 ---
 #### Special Focus: This year, the workshop aims to focus on emerging and underexplored areas of human- and model-in-the-loop learning, such as employing humans to seek richer forms of feedback for data than labels alone, learning from dynamic adversarial data collection with humans employed to find weaknesses in models, earning from human teachers instructing computers through conversation and/or demonstration, investigating the role of humans in model interpretability, and assessing social impact of ML systems. We aim to bring together interdisciplinary researchers from academia and industry to discuss major challenges, outline recent advances, and facilitate future research in these areas.
 
