@@ -12,7 +12,7 @@ description: Information about Invited Talks.
         <div>
             <img src='/assets/img/danweld.jpg' class='iconDetails'>
         </div>  
-    <div style='margin-left:60px;'>
+    <div class="aboutthem" style='margin-left:100px;'>
     <h4>Dan Weld</h4>
     <div style="font-size:.6em">University of Washington, Professor</div>
     </div>
