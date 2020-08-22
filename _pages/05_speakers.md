@@ -17,7 +17,7 @@ description: Information about Invited Talks.
     style="width:88%"
     align="center">
 <div class="caption">
-    <h5>Bhargavi Paranjape</h5>
+    <h5>Dan Weld</h5>
     <p>University of Washington, Professor
     </p>
     <p></p>
