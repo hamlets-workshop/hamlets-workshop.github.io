@@ -14,8 +14,8 @@ description: Information about Invited Talks.
 <img 
     src="/assets/img/danweld.jpg"
     alt="Dan Weld headshot"
-    style="width:88%"
-    align="center">
+    style="width:20%"
+    align="left">
 <div class="caption">
     <h5>Dan Weld</h5>
     <p>University of Washington, Professor
