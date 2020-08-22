@@ -12,7 +12,7 @@ description: Information about Invited Talks.
 <div class="thumbnail">
 <a href="https://www.cs.washington.edu/people/faculty/weld/">
 <img 
-    src="assets/img/danweld.jpg"
+    src="/assets/img/danweld.jpg"
     alt="Dan Weld headshot"
     style="width:88%"
     align="center">
