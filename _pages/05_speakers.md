@@ -18,7 +18,7 @@ description: Information about Invited Talks.
     align="left">
 <div class="caption">
     <h5>Dan Weld</h5>
-    <p>University of Washington, Professor
+    <p style="text-align:left;">University of Washington, Professor
     </p>
     <p></p>
 </div>
