@@ -7,21 +7,14 @@ description: Information about Invited Talks.
 
 #### We have an exciting list of academics and industry leaders to speak at HAMLETS 2020. Stay tuned for a list of invited speakers!
 
-<!-- 6/12 = 1/2 width on mobile, 4/12 = 1/3 screen on laptop -->
-<div class="col-xs-6 col-md-4"> 
-<div class="thumbnail">
-<a href="https://www.cs.washington.edu/people/faculty/weld/">
-<img 
-    src="/assets/img/danweld.jpg"
-    alt="Dan Weld headshot"
-    style="width:20%"
-    align="left">
-<div class="caption">
-    <h5>Dan Weld</h5>
-    <p style="text-align:left;">University of Washington, Professor
-    </p>
-    <p></p>
-</div>
-</a>
-</div>
+<div class='container2'>
+    <a href="https://www.cs.washington.edu/people/faculty/weld/">
+        <div>
+            <img src='/assets/img/danweld.jpg' class='iconDetails'>
+        </div>  
+    <div style='margin-left:60px;'>
+    <h4>Dan Weld</h4>
+    <div style="font-size:.6em">University of Washington, Professor</div>
+    </div>
+    </a>
 </div>
