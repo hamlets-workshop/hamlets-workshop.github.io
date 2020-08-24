@@ -56,7 +56,7 @@ Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at 
 <div class='container2'>
 <a href="https://cseweb.ucsd.edu/~dasgupta/">
                 <div>
-                        <img src='/assets/img/sanjoy.jpg' class='iconDetails'>
+                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' class='iconDetails'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Sanjoy Dasgupt</h3>
