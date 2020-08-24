@@ -53,4 +53,32 @@ Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at 
 </div>
 </div>
 
+<div class='container2'>
+<a href="https://cseweb.ucsd.edu/~dasgupta/">
+                <div>
+                        <img src='/assets/img/sanjoy.jpg' class='iconDetails'>
+                </div>
+        <div style='margin-left:200px;'>
+        <h3>Sanjoy Dasgupt</h3>
+        <div style="font-size:1em">Professor, UCSD</div>
+        </div>
+</a>
+<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Diego, where he has been since 2002. He works on algorithmic statistics, with a particular focus on unsupervised and minimally supervised learning. He is author of a textbook, "Algorithms" (with Christos Papadimitriou and Umesh Vazirani).
+</div>
+</div>
 
+<div class='container2'>
+<a href="http://www.jennwv.com/bio.html">
+                <div>
+                        <img src='http://www.jennwv.com/jenn2018.jpg' class='iconDetails'>
+                </div>
+        <div style='margin-left:200px;'>
+        <h3>Jenn Wortman Vaughan</h3>
+        <div style="font-size:1em">Senior Principal Researcher, Microsoft Research, NYC</div>
+        </div>
+</a>
+<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+Jenn Wortman Vaughan is a Senior Principal Researcher at Microsoft Research, New York City. Her research background is in machine learning and algorithmic economics. She is especially interested in the interaction between people and AI, and has often studied this interaction in the context of prediction markets and other crowdsourcing systems. In recent years, she has turned her attention to human-centered approaches to transparency, interpretability, and fairness in machine learning.
+</div>
+</div>
