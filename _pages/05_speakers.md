@@ -9,7 +9,7 @@ description: We have an exciting list of academics and industry leaders working 
 <div class='container2'>
 <a href="https://cs.stanford.edu/people/ebrun/index.html">
                 <div>
-                        <img src='/assets/img/ebrun.jpg' class='iconDetails'>
+                        <img src='/assets/img/ebrun.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Emma Brunskill</h3>
@@ -39,7 +39,7 @@ Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of
 <div class='container2'>
 <a href="https://finale.seas.harvard.edu/">
 		<div>
-			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' class='iconDetails'>
+			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' class='iconDetails2'>
 		</div>	
 	<div style='margin-left:200px;'>
         <h3>Finale Doshi-Velez</h3>
@@ -54,7 +54,7 @@ Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at 
 <div class='container2'>
 <a href="https://cseweb.ucsd.edu/~dasgupta/">
                 <div>
-                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' class='iconDetails'>
+                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Sanjoy Dasgupt</h3>
@@ -78,5 +78,36 @@ Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Die
 </a>
 <div style="font-size:.75em; margin-top:10px; margin-left:200px;">
 Jenn Wortman Vaughan is a Senior Principal Researcher at Microsoft Research, New York City. Her research background is in machine learning and algorithmic economics. She is especially interested in the interaction between people and AI, and has often studied this interaction in the context of prediction markets and other crowdsourcing systems. In recent years, she has turned her attention to human-centered approaches to transparency, interpretability, and fairness in machine learning.
+</div>
+</div>
+
+
+<div class='container2'>
+<a href="http://www.cs.utexas.edu/users/grauman/">
+                <div>
+                        <img src='/assets/img/kristen.jpg' class='iconDetails'>
+                </div>
+        <div style='margin-left:200px;'>
+        <h3>Kristen Grauman</h3>
+        <div style="font-size:1em">Professor, University of Texas</div>
+        </div>
+</a>
+<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+Kristen Grauman is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist at Facebook AI Research. Her research in computer vision and machine learning focuses on visual recognition, video, and embodied perception. Before joining UT Austin in 2007, she received her Ph.D. at MIT. She is an IEEE Fellow, AAAI Fellow, Sloan Fellow, and a recipient of the NSF CAREER, ONR YIP, PECASE, PAMI Young Researcher award, and the 2013 IJCAI Computers and Thought Award.
+</div>
+</div>
+
+<div class='container2'>
+<a href="https://ajratner.github.io/">
+                <div>
+                        <img src='https://ajratner.github.io/assets/img/me.jpg' class='iconDetails'>
+                </div>
+        <div style='margin-left:200px;'>
+        <h3>Alex Ratner</h3>
+        <div style="font-size:1em">Assistant Professor, University of Washington</div>
+        </div>
+</a>
+<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+Alex Ratner is an Assistant Professor at the  University of Washington. He works on enabling users to interact with the modern ML stack by programmatically building and managing training datasets. He earned a PhD from Stanford University. 
 </div>
 </div>

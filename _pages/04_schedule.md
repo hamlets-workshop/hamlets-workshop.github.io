@@ -5,7 +5,7 @@ title: Call for Papers
 description: Information about submitting to the NeurIPS 2020 HAMLETS workshop. 
 ---
 
-#### Workshop Timeline 
+#### Key Dates 
 
 * Call for papers announcement: August 14
 * Submission deadline: October 9
@@ -16,8 +16,6 @@ description: Information about submitting to the NeurIPS 2020 HAMLETS workshop.
 * Workshop: TBD
 
 #### Submission Instructions
-
-Authors are encouraged to submit papers on topics related to human and/or model in the loop evaluation and training strategies, adhering to the following guidelines:
 
 * Submissions should be made in PDF format through OpenReview: [https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/HAMLETS](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/HAMLETS).
 * Submissions should be anonymized and follow the [NeurIPS 2020 format](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles).
