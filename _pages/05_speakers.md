@@ -9,7 +9,7 @@ description: We have an exciting list of academics and industry leaders working 
 <div class='container2'>
 <a href="https://cs.stanford.edu/people/ebrun/index.html">
                 <div>
-                        <img src='/assets/img/ebrun.jpg' width='180' height='192'>
+                        <img src='/assets/img/ebrun.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:230px;'>
         <h3>Emma Brunskill</h3>
@@ -24,7 +24,7 @@ Emma Brunskill is an assistant professor in the Computer Science Department at S
 <div class='container2'>
 <a href="https://www.cs.washington.edu/people/faculty/weld/">
                 <div>
-                        <img src='https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/weld_sm.jpg' width='159' height='200'>
+                        <img src='https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/weld_sm.jpg' class='iconDetails'>
                 </div>
         <div style='margin-left:230px;'>
         <h3>Dan Weld</h3>
@@ -39,7 +39,7 @@ Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of
 <div class='container2'>
 <a href="https://finale.seas.harvard.edu/">
 		<div>
-			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' width='180' height='140'>
+			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' class='iconDetails3'>
 		</div>	
 	<div style='margin-left:230px;'>
         <h3>Finale Doshi-Velez</h3>
@@ -54,7 +54,7 @@ Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at 
 <div class='container2'>
 <a href="https://cseweb.ucsd.edu/~dasgupta/">
                 <div>
-                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' width='150' height='211'>
+                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' class='iconDetails'>
                 </div>
         <div style='margin-left:230px;'>
         <h3>Sanjoy Dasgupta</h3>
