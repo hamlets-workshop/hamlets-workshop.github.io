@@ -11,12 +11,12 @@ description: We have an exciting list of academics and industry leaders working 
                 <div>
                         <img src='/assets/img/ebrun.jpg' width='180' height='192'>
                 </div>
-        <div style='margin-left:200px;'>
+        <div style='margin-left:230px;'>
         <h3>Emma Brunskill</h3>
         <div style="font-size:1em">Professor, Stanford University</div>
         </div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Emma Brunskill is an assistant professor in the Computer Science Department at Stanford University where she leads the AI for Human Impact group. She was previously on faculty at Carnegie Mellon University. She is the recipient of a multiple early faculty career awards (National Science Foundation, Office of Naval Research, Microsoft Research) and her group has received several best research paper nominations (CHI, EDMx3) and awards (UAI, RLDM).
 </div>
 </div>
@@ -26,12 +26,12 @@ Emma Brunskill is an assistant professor in the Computer Science Department at S
                 <div>
                         <img src='https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/weld_sm.jpg' width='159' height='200'>
                 </div>
-        <div style='margin-left:200px;'>
+        <div style='margin-left:230px;'>
         <h3>Dan Weld</h3>
         <div style="font-size:1em">Professor, University of Washington</div>
         </div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of Computer Science & Engineering and manages the Semantic Scholar research group at the Allen Institute of Technology. Dan runs the Lab for Human-AI Interaction, which develops intelligent interfaces and team architectures to allow people to better understand and control AI tools, assistants, and systems. The lab studies especially explainable machine learning, intelligible AI, and human-AI team architectures.
 </div>
 </div>
@@ -41,12 +41,12 @@ Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of
 		<div>
 			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' width='180' height='140'>
 		</div>	
-	<div style='margin-left:200px;'>
+	<div style='margin-left:230px;'>
         <h3>Finale Doshi-Velez</h3>
 	<div style="font-size:1em">Associate Professor, Harvard University</div>
 	</div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at the Harvard Paulson School of Engineering and Applied Sciences.  She completed her MSc from the University of Cambridge as a Marshall Scholar, her PhD from MIT, and her postdoc at Harvard Medical School.  Her interests lie at the intersection of machine learning, healthcare, and interpretablity.
 </div>
 </div>
@@ -56,12 +56,12 @@ Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at 
                 <div>
                         <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' width='150' height='211'>
                 </div>
-        <div style='margin-left:200px;'>
+        <div style='margin-left:230px;'>
         <h3>Sanjoy Dasgupta</h3>
         <div style="font-size:1em">Professor, UCSD</div>
         </div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Diego, where he has been since 2002. He works on algorithmic statistics, with a particular focus on unsupervised and minimally supervised learning. He is author of a textbook, "Algorithms" (with Christos Papadimitriou and Umesh Vazirani).
 </div>
 </div>
@@ -71,12 +71,12 @@ Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Die
                 <div>
                         <img src='http://www.jennwv.com/jenn2018.jpg' class='iconDetails2'>
                 </div>
-        <div style='margin-left:200px;'>
+        <div style='margin-left:230px;'>
         <h3>Jenn Wortman Vaughan</h3>
         <div style="font-size:1em">Senior Principal Researcher, Microsoft Research, NYC</div>
         </div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Jenn Wortman Vaughan is a Senior Principal Researcher at Microsoft Research, New York City. Her research background is in machine learning and algorithmic economics. She is especially interested in the interaction between people and AI, and has often studied this interaction in the context of prediction markets and other crowdsourcing systems. In recent years, she has turned her attention to human-centered approaches to transparency, interpretability, and fairness in machine learning.
 </div>
 </div>
@@ -87,12 +87,12 @@ Jenn Wortman Vaughan is a Senior Principal Researcher at Microsoft Research, New
                 <div>
                         <img src='/assets/img/kristen.jpg' class='iconDetails2'>
                 </div>
-        <div style='margin-left:200px;'>
+        <div style='margin-left:230px;'>
         <h3>Kristen Grauman</h3>
         <div style="font-size:1em">Professor, University of Texas</div>
         </div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Kristen Grauman is a Professor in the Department of Computer Science at the University of Texas at Austin and a Research Scientist at Facebook AI Research. Her research in computer vision and machine learning focuses on visual recognition, video, and embodied perception. Before joining UT Austin in 2007, she received her Ph.D. at MIT. She is an IEEE Fellow, AAAI Fellow, Sloan Fellow, and a recipient of the NSF CAREER, ONR YIP, PECASE, PAMI Young Researcher award, and the 2013 IJCAI Computers and Thought Award.
 </div>
 </div>
@@ -102,12 +102,12 @@ Kristen Grauman is a Professor in the Department of Computer Science at the Univ
                 <div>
                         <img src='https://ajratner.github.io/assets/img/me.jpg' class='iconDetails2'>
                 </div>
-        <div style='margin-left:200px;'>
+        <div style='margin-left:230px;'>
         <h3>Alex Ratner</h3>
         <div style="font-size:1em">Assistant Professor, University of Washington</div>
         </div>
 </a>
-<div style="font-size:.75em; margin-top:10px; margin-left:200px;">
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Alex Ratner is an Assistant Professor at the  University of Washington. He works on enabling users to interact with the modern ML stack by programmatically building and managing training datasets. He earned a PhD from Stanford University. 
 </div>
 </div>
