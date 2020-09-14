@@ -39,7 +39,7 @@ Daniel S. Weld is Thomas J. Cable / WRF Professor in the Paul G. Allen School of
 <div class='container2'>
 <a href="https://finale.seas.harvard.edu/">
 		<div>
-			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' class='iconDetails3'>
+			<img src='https://finale.seas.harvard.edu/files/finale/files/14097926688_012b76fa71_m.jpg?m=1489703967' class='iconDetails2'>
 		</div>	
 	<div style='margin-left:230px;'>
         <h3>Finale Doshi-Velez</h3>
