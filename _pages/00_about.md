@@ -48,7 +48,7 @@ organizers: true
             <b> <font size="+0" color="purple">System Design</font></b>
             </td>
             <td style="border: none;">
-            <i> Design of creative interfaces for data annotation, data visualization, interactive learning</i>
+            <i> Design of creative interfaces for data annotation, data visualization, interactive visualization</i>
             </td>
         </tr>
         <tr style="border: none;">

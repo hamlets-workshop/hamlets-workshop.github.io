@@ -22,3 +22,5 @@ description: Information about submitting to the NeurIPS 2020 HAMLETS workshop.
 * We accept paper submissions with a minimum length of 4 pages and a maximum of 8 pages (excluding references and any supplementary material).
 * Camera-ready versions will allow for one extra page to incorporate reviewers’ feedback.
 * The authors of all accepted papers will be expected to prerecord a spotlight presentation and attend a live Q&A session over Zoom.
+
+The workshop's papers are non-archival. We encourage authors to submit new and original work, in the form of work in progres, or move advanced work that will benefit the discussion the workshop aims to foster. We are also accepting papers accepted in other *non-ML* conferences and/or currently under submission at non-ML conferences. We cannot accept papers that were previously, or are currently under submission in ML conferences.

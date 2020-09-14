@@ -54,7 +54,7 @@ Finale Doshi-Velez is a John L. Loeb associate professor in Computer Science at 
 <div class='container2'>
 <a href="https://cseweb.ucsd.edu/~dasgupta/">
                 <div>
-                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' class='iconDetails2'>
+                        <img src='https://cseweb.ucsd.edu/~dasgupta/photo.jpg' class='iconDetails'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Sanjoy Dasgupt</h3>
@@ -69,7 +69,7 @@ Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Die
 <div class='container2'>
 <a href="http://www.jennwv.com/bio.html">
                 <div>
-                        <img src='http://www.jennwv.com/jenn2018.jpg' class='iconDetails'>
+                        <img src='http://www.jennwv.com/jenn2018.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Jenn Wortman Vaughan</h3>
@@ -85,7 +85,7 @@ Jenn Wortman Vaughan is a Senior Principal Researcher at Microsoft Research, New
 <div class='container2'>
 <a href="http://www.cs.utexas.edu/users/grauman/">
                 <div>
-                        <img src='/assets/img/kristen.jpg' class='iconDetails'>
+                        <img src='/assets/img/kristen.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Kristen Grauman</h3>
@@ -100,7 +100,7 @@ Kristen Grauman is a Professor in the Department of Computer Science at the Univ
 <div class='container2'>
 <a href="https://ajratner.github.io/">
                 <div>
-                        <img src='https://ajratner.github.io/assets/img/me.jpg' class='iconDetails'>
+                        <img src='https://ajratner.github.io/assets/img/me.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:200px;'>
         <h3>Alex Ratner</h3>
