@@ -69,7 +69,7 @@ Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Die
 <div class='container2'>
 <a href="http://www.jennwv.com/bio.html">
                 <div>
-                        <img src='assets/img/jenn2018b.jpg' class='iconDetails2'>
+                        <img src='/assets/img/jenn2018b.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:230px;'>
         <h3>Jenn Wortman Vaughan</h3>
