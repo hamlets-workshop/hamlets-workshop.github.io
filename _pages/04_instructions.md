@@ -10,7 +10,7 @@ description: Information about submitting to the NeurIPS 2020 HAMLETS workshop.
 * Call for papers announcement: August 14
 * Submission deadline: ~~October 9~~ October 14 ((23:59 AoE)
 * Accept/Reject notifications: October 30
-* Camera-ready due: November 15
+* Camera-ready due: ~~November 15~~ November 30
 * Workshop: December 12
 
 #### Submission Instructions
