@@ -69,7 +69,7 @@ Sanjoy Dasgupta is a Professor of Computer Science and Engineering at UC San Die
 <div class='container2'>
 <a href="http://www.jennwv.com/bio.html">
                 <div>
-                        <img src='http://www.jennwv.com/jenn2018.jpg' class='iconDetails2'>
+                        <img src='/assets/img/jenn2018b.jpg' class='iconDetails2'>
                 </div>
         <div style='margin-left:230px;'>
         <h3>Jenn Wortman Vaughan</h3>
@@ -109,5 +109,20 @@ Kristen Grauman is a Professor in the Department of Computer Science at the Univ
 </a>
 <div style="font-size:.75em; margin-top:10px; margin-left:230px;">
 Alex Ratner is an Assistant Professor at the  University of Washington. He works on enabling users to interact with the modern ML stack by programmatically building and managing training datasets. He earned a PhD from Stanford University. 
+</div>
+</div>
+
+<div class='container2'>
+<a href="http://scottyih.org//">
+                <div>
+                        <img src='http://scottyih.org/images/Scott_Yih_profile_720.jpg' class='iconDetails2'>
+                </div>
+        <div style='margin-left:230px;'>
+        <h3>Scott Wen-tau Yih</h3>
+        <div style="font-size:1em">Research Scientist, Facebook AI Research</div>
+        </div>
+</a>
+<div style="font-size:.75em; margin-top:10px; margin-left:230px;">
+Scott Wen-tau Yih is a Research Scientist at Facebook AI Research (FAIR). His research interests include natural language processing, machine learning and information retrieval. Before joining FAIR, Yih was a Principal Research Scientist at the Allen Institute for Artificial Intelligence (AI2), working on scientific question answering. Prior to that, Yih had spent 12 years at Microsoft Research, working on a variety of projects including email spam filtering, keyword extraction and search & ad relevance. His recent work focuses on continuous representations and neural network models, with applications in knowledge base embedding, semantic parsing and question answering.
 </div>
 </div>
