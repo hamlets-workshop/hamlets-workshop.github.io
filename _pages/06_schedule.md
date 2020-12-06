@@ -21,7 +21,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">08:30 – 08:55 PST</font></b> 
             </td>
             <td style="border: none;">
-            <i>"Conversational Machine Learning," Tom Mitchell (Carnegie Mellon)</i>
+            <i>"Conversational Machine Learning,"</i> <b>Tom Mitchell (Carnegie Mellon)</b>
             </td>  
         </tr>
         <!-- <tr style="border: none;">
@@ -37,7 +37,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">09:00 – 09:25 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Intelligibility Throughout the Machine Learning Life Cycle," Jenn Wortman Vaughan (Microsoft Research)</i>
+            <i>"Intelligibility Throughout the Machine Learning Life Cycle,"</i> <b>Jenn Wortman Vaughan (Microsoft Research)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -53,7 +53,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b><font size="+0" color="purple">09:30 – 09:55 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Learning from simple explanations," Sanjoy Dasgupta (UCSD)</i>
+            <i>"Learning from simple explanations,"</i> <b>Sanjoy Dasgupta (UCSD)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -69,7 +69,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">10:00 – 10:25 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Towards Interpretable representation learning and evaluation," Invited Talk by Finale Doshi-Velez (Harvard)</i>
+            <i>"Towards Interpretable representation learning and evaluation,"</i> <b>Finale Doshi-Velez (Harvard)</b>
             </td>
         </tr>
         <tr style="border: none;">
@@ -109,7 +109,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">14:00 – 14:25 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Optimizing human-AI teams," Dan Weld (AI2, University of Washington)</i>
+            <i>"Optimizing human-AI teams,"</i> <b>Dan Weld (AI2, University of Washington)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -125,7 +125,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">14:30 – 14:55 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"People Watching for Learning Visual Affordances," Invited Talk by Kristen Grauman (UT Austin, FAIR)</i>
+            <i>"People Watching for Learning Visual Affordances,"</i> <b>Kristen Grauman (UT Austin, FAIR)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -141,7 +141,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">15:00 – 15:25 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Interactive Semantic Parsing for Question Answering," Scott Yih (FAIR)</i>
+            <i>"Interactive Semantic Parsing for Question Answering,"</i> <b>Scott Yih (FAIR)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -157,7 +157,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">15:30 – 15:55 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Assisting the human in decision making with interpretable, actionable AI suggestions," Emma Brunskill (Stanford)</i>
+            <i>"Assisting the human in decision making with interpretable, actionable AI suggestions,"<i> <b>Emma Brunskill (Stanford)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -173,7 +173,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">16:00 – 16:25 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Programmatically managing training data for real-world ML," Alex Ratner (Snorkel, University of Washington)</i>
+            <i>"Programmatically managing training data for real-world ML,"<i> <b>Alex Ratner (Snorkel, University of Washington)</b>
             </td>
         </tr>
         <tr style="border: none;">
