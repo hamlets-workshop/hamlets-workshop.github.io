@@ -157,7 +157,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">15:30 – 15:55 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Assisting the human in decision making with interpretable, actionable AI suggestions,"<i> <b>Emma Brunskill (Stanford)</b>
+            <i>"Assisting the human in decision making with interpretable, actionable AI suggestions,"</i> <b>Emma Brunskill (Stanford)</b>
             </td>
         </tr>
         <!-- <tr style="border: none;">
@@ -173,7 +173,7 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <b> <font size="+0" color="purple">16:00 – 16:25 PST</font></b>
             </td>
             <td style="border: none;">
-            <i>"Programmatically managing training data for real-world ML,"<i> <b>Alex Ratner (Snorkel, University of Washington)</b>
+            <i>"Programmatically managing training data for real-world ML,"</i> <b>Alex Ratner (Snorkel, University of Washington)</b>
             </td>
         </tr>
         <tr style="border: none;">
