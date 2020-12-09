@@ -208,3 +208,193 @@ description: Tentative Schedule on Sat, Dec 12th, 2020 @ 08:15 – 20:00 PST. No
             <i>Social/Get-Together on GatherTown</i>
             </td>
         </tr>
+  </table>
+
+        
+<hr />
+
+# Poster Sessions
+#### Session 1
+<table style="background-color: #FAFAFA;">
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1A</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Explanation Augmented Feedback in Human-in-the-Loop Reinforcement Learning</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1B</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>CoRefi: A Crowd Sourcing Suite for Coreference Annotation</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1C</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Conceptualization and Framework of Hybrid Intelligence Systems</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1D</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Continuous and Interactive Factual Knowledge Learning in Verification Dialogues</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1E</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Robust Active Learning Strategies for Model Variability</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1F</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>MEME: Generating RNN Model Explanations via Model Extraction</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1G</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>The Reverse Turing Test for Evaluating Interpretability Methods on Unknown Tasks</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1H</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Accounting for Human Learning when Inferring Human Preferences</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1I</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Value Alignment Verification</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1J</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>TimeSHAP: Explaining Recurrent Models through Sequence Perturbations</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">1K</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Teaching the Machine to Explain Itself using Domain Knowledge</i>
+        </td>                        
+    </tr>
+</table>
+
+
+#### Session 2
+<table style="background-color: #FAFAFA;">
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2A</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>On the Importance of Adaptive Data Collection for Extremely Imbalanced Pairwise Tasks</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2B</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>NetReAct: Interactive Learning for Network Summarization</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2C</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>The Design and Development of Games with a Purpose for AI Systems</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2D</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>What more can Entity Linking do for Question Answering?</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2E</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Local vs. Global interpretations for NLP</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2F</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Evidential Reasoning with Expert-Guided Machine Learning</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2G</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>On the Utility of Active Instance Selection for Few-Shot Learning</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2H</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Human Adversarial QA: Did the Model Understand the Paragraph?</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2I</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Human-in-the-loop solution for scoring economic development from geospatial data</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2J</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>Real-Time Visual Feedback for Educative Benchmark Creation: A Human-and-Metric-in-the-Loop Workflow</i>
+        </td>                        
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;">
+        <b> <font size="+0" color="purple">2K</font></b>
+        </td>     
+        <td style="border: none;">
+            <i>ReGAL: Rule-Generative Active Learning for Model-in-the-Loop Weak Supervision</i>
+        </td>                        
+    </tr>
+</table>
