@@ -8,9 +8,7 @@ profile:
   align: right
   image: 
   address: 
-news: true
 social: true
-organizers: true
 ---
 #### <strong>Special Focus</strong>: We would especially like to highlight emerging and underexplored areas of human and model-in-the-loop learning, such as employing humans to seek richer forms of feedback for data than labels alone, learning from dynamic adversarial data collection with humans employed to find weaknesses in models, learning from human teachers instructing computers through conversation and/or demonstration, investigating the role of humans in model interpretability, and assessing social impact of ML systems. We aim to bring together interdisciplinary researchers from academia and industry to discuss major challenges, outline recent advances, and facilitate future research in these areas.  This 2021 edition of the workshop is aimed at bring together interdisciplinary researchers and policy leaders to discuss major challenges, outline recent advances, and facilitate future research on the technical and societal challenges we face in human-AI interaction, and how we might address them.
 
